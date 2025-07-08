@@ -7,9 +7,9 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
-TWITTER_EMAIL = 'adam.bromley.work@gmail.com'
-TWITTER_HANDLE = "BromleyWork"
-TWITTER_PASS = 'sojzus-gImbun-4xyssa'
+TWITTER_EMAIL = ''
+TWITTER_HANDLE = ""
+TWITTER_PASS = ''
 QUOTED_UP_SPEED = 73
 QUOTED_DOWN_SPEED = 18
 CHROME_DRIVER_PATH = "/Users/adam/Development/chromedriver"
